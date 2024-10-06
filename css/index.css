@@ -11,3 +11,8 @@ h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+li.nav-item {
+    padding-left: 1em;
+    padding-right: 1.5em;
+}
+

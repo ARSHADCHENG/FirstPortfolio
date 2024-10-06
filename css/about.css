@@ -1,0 +1,19 @@
+li.nav-item {
+    padding-left: 1em;
+    padding-right: 1.5em;
+}
+
+.grid-container {
+    margin: 10%;
+    height: 50%;
+    width: 80%;
+    display: inline-grid;
+    grid-template-columns: 25% 50%;
+    column-gap: 5em;
+
+}
+
+li.list-group-item {
+    background-color: var(--bg-secondary);
+    font-weight: bold;
+}
