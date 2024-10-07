@@ -1,4 +1,4 @@
-# FirstPortfolio
+# Personal Website
 
 The static portfolio of Arshad Cheng
 
